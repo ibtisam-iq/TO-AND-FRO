@@ -27,3 +27,6 @@
 - https://github.com/AIwithhassan/ai-doctor-2.0-voice-and-vision/tree/main
 - https://resume.io/
 - https://www.datacamp.com/blog/docker-projects
+- https://resuwin.com/
+- https://anonymousemail.me/
+- https://emkei.cz/
